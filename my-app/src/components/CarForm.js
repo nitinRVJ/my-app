@@ -27,7 +27,7 @@ function CarForm() {
 
   return (
     <div className = 'car-form-panel'>
-      <h4 className = 'subtitle is-3'> Add Car</h4>
+      <h4 className = 'subtitle is-3'> del car </h4>
       <form onSubmit = {handleSubmit}>
         <div className = 'field-group'>
           <div className = 'field'>
